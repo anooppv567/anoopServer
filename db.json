@@ -1,11 +1,13 @@
- [{
-			"name": "Peter"
-		},
-		{
-			"name": "John"
-		},
-		{
-			"name": "James"
-		}
-	]
-
+{
+  "details": [
+    {
+      "name": "Peter"
+    },
+    {
+      "name": "John"
+    },
+    {
+      "name": "James"
+    }
+  ]
+}
