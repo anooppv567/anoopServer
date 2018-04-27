@@ -1,4 +1,4 @@
- [
+{ "details": [
     {
       "name": "Peter"
     },
@@ -9,3 +9,4 @@
       "name": "James"
     }
   ]
+}
